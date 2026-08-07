@@ -28,5 +28,5 @@ export const properties: Property[] = [
   { id: "runda-acre", title: "Runda Residential Acre", location: "Runda, Nairobi", area: "Runda", status: "For Sale", price: "KES 55,000,000", priceValue: 55000000, type: "Land", bedrooms: 0, bathrooms: 0, parking: 0, image: "/manus-storage/intrepid-nairobi-context_674c9ba2.png", gallery: ["/manus-storage/intrepid-nairobi-context_674c9ba2.png", "/manus-storage/intrepid-karen-villa_2a330a8f.png"], description: "A spacious residential parcel in Runda for a considered future home or long-term property investment.", features: ["Quiet residential road", "Red soil parcel", "Established neighbourhood", "Good road access"], sample: true },
 ];
 
-export const whatsappUrl = "https://wa.me/2547259414140?text=Hello%20Intrepid%20Realtors%2C%20I%20would%20like%20to%20enquire%20about%20a%20property.";
+export const whatsappUrl = "https://wa.me/2547259414140?text=Hello%20DAMIT%20Real%20Estate%20Consultants%2C%20I%20would%20like%20to%20enquire%20about%20a%20property.";
 export const phoneUrl = "tel:+2547259414140";
