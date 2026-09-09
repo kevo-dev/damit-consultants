@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     url: "/",
     images: [
       {
-        url: "/manus-storage/intrepid-hero_bc8ba4d3.png",
+        url: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88",
         width: 1600,
         height: 900,
         alt: "DAMIT Real Estate Consultants property view",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     title: "DAMIT Real Estate Consultants | Real Estate in Nairobi, Kenya",
     description:
       "Thoughtful guidance for homes, land, and commercial opportunities in Nairobi and across Kenya.",
-    images: ["/manus-storage/intrepid-hero_bc8ba4d3.png"],
+    images: ["https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88"],
   },
   robots: {
     index: true,

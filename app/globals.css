@@ -32,7 +32,7 @@ button:active, a.btn:active { transform: scale(.97); }
 .text-link { display: inline-flex; align-items: center; gap: .55rem; color: #0d1b2a; font-size: 11px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
 .text-link:hover { color: #9b7437; gap: .8rem; }
 .hero { position: relative; min-height: 815px; overflow: visible; background: #0d1b2a; }
-.hero-image { position: absolute; inset: 0; background: url('/manus-storage/intrepid-hero_bc8ba4d3.png') center/cover no-repeat; }
+.hero-image { position: absolute; inset: 0; background: url('https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88') center/cover no-repeat; }
 .hero-shade { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(5,16,25,.84) 0%, rgba(5,16,25,.58) 42%, rgba(5,16,25,.13) 100%), linear-gradient(0deg, rgba(5,16,25,.65) 0%, transparent 45%); }
 .search-panel { display: grid; gap: 0; background: #fff; box-shadow: 0 20px 60px rgba(13,27,42,.17); padding: 1rem; }
 @media (min-width: 768px) { .search-panel { grid-template-columns: repeat(4, 1fr) auto; padding: 1rem 1.25rem; } }
